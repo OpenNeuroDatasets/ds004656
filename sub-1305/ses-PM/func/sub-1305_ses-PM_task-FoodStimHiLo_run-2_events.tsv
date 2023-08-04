@@ -1,0 +1,9 @@
+onset	duration	condition
+60	30	cont
+60	30	low
+180	30	cont
+180	30	hi
+300	30	cont
+300	30	hi
+360	30	low
+480	30	hi
