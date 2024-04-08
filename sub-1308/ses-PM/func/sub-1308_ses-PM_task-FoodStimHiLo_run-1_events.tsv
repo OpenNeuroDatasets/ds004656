@@ -1,12 +1,10 @@
 onset	duration	condition
 0	30	cont
-0	30	low
-60	30	hi
-120	30	low
+60	30	low
+120	30	hi
 180	30	cont
-240	30	low
+240	30	hi
 300	30	cont
-300	30	hi
 360	30	low
 420	30	cont
 480	30	low
